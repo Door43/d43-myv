@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myv:home|Door43 (myv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myv|d43-myv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myv/archive/master.zip|d43-myv.zip]]
+
+**Recent Changes**
+{{changes>ns = myv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myv|Ethnologue data]]
+
